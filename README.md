@@ -10,11 +10,11 @@ This repostitory was developed using specific versions of Python, Cellpose, Cell
 ## Usage
 Ensure that the following directories are present:
 
-outputs_png
-outputs_roi
-outputs_tif
-roiCSV_outputs
-images
+outputs_png \n
+outputs_roi \n
+outputs_tif \n
+roiCSV_outputs \n
+images \n
 
 ### automate_seg.py
 
