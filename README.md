@@ -47,7 +47,7 @@ Note that the "-tr" argument, respective to the "test run" option, is no longer 
 "show_masks.py" is a small helper function used to view any outputs written to "outputs_png" and "outputs_tif" if ImageJ is not available. It has two command line arguments. The first should be either "outputs_png" or "outputs_tif" depending on where the image is located. The second should be the name of the image to be viewed. There are no outputs.
 
 ## References
-[1] Stringer, C., Wang, T., Michaelos, M., & Pachitariu, M. (2021). Cellpose: a generalist algorithm for cellular segmentation. Nature methods, 18(1), 100-106.
+[1] Stringer, C., Wang, T., Michaelos, M., & Pachitariu, M. (2021). Cellpose: a generalist algorithm for cellular segmentation. Nature methods, 18(1), 100-106.\
 [2] Stéfan van der Walt, Johannes L. Schönberger, Juan Nunez-Iglesias, François Boulogne, Joshua D. Warner, Neil Yager, Emmanuelle Gouillart, Tony Yu, and the scikit-image contributors. scikit-image: Image processing in Python. PeerJ 2:e453 (2014) https://doi.org/10.7717/peerj.453
 
 ## Authors:
