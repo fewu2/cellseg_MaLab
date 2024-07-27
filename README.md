@@ -14,7 +14,7 @@ outputs_png,
 outputs_roi,
 outputs_tif,
 roiCSV_outputs, 
-images,
+images
 
 ### automate_seg.py
 
